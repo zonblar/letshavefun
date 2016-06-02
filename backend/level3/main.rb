@@ -70,4 +70,3 @@ def rental_prices
 
  end
 
- puts rental_prices
