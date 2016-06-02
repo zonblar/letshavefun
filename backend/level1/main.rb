@@ -29,3 +29,4 @@ def rental_prices
    output_hash = { "rentals": output_array }
  end
 
+puts rental_prices
